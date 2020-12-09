@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ee3a847-0702-4be3-beea-bd07e8b28a76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/association_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/association_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callbacks_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/callbacks_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customize_column_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/customize_column_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialects/mssql/mssql.go" beforeDir="false" afterPath="$PROJECT_DIR$/dialects/mssql/mssql.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/errors_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/field_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/field_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/join_table_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/join_table_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/logger_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/main_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migration_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/migration_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naming_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/naming_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preload_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/preload_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/query_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scaner_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scaner_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scope_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scope_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/update_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/utils.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1lQSF6fjiGtGL2bZyyq1eDr6EZB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="gorm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="gorm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="982" y="403" width="596" height="594" key="find.popup" timestamp="1607527747676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="982" y="403" width="596" height="594" key="find.popup/0.0.2560.1400/2560.-263.1200.1880@0.0.2560.1400" timestamp="1607527747676" />
+  </component>
+</project>
